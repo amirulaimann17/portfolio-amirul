@@ -2,8 +2,8 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #000000; /* Force black background */
+  --foreground: #ededed;
 }
 
 @media (prefers-color-scheme: dark) {
